@@ -7,6 +7,10 @@
   "bin": {
     "lang-translation": "src/bin.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yansenlei/lang-translation.git"
+  },
   "scripts": {
     "test": "jest ./test/ltr.test.js"
   },
