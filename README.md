@@ -12,7 +12,7 @@ npm install lang-translation -g
 
 2. 运行程序：
 ```bash
-ltr -s zh-CN -t en -m ./locales/zh.json
+lang-translation -s zh-CN -t en -m ./locales/zh.json
 ```
 
 # 库的引入使用方式
